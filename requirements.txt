@@ -1,6 +1,5 @@
-ipykernel
-jupyter_client
+ipywidgets>=7.2
+notebook>=5.3
 matplotlib
 numpy
-ipywidgets
 rsmf
