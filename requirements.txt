@@ -1,0 +1,6 @@
+ipykernel
+jupyter_client
+matplotlib
+numpy
+ipywidgets
+rsmf
