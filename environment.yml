@@ -10,4 +10,3 @@ dependencies:
   - pip
   - pip:
     - rsmf==0.2
-prefix: /opt/miniconda3/envs/delta_ms_toy
