@@ -1,0 +1,11 @@
+name: delta_ms_toy
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipywidgets
+  - matplotlib
+  - jupyterlab
+  - ipython
+  - pip
+prefix: /opt/miniconda3/envs/delta_ms_toy
